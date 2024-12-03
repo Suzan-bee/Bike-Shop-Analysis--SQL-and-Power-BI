@@ -17,14 +17,21 @@ This component examines the demographic attributes of riders, such as rider type
 **Data Transformation:** Cleaning and preparing raw data for analysis.
 
 **SQL/MySQL**: For database queries and aggregations.
+
 **Power BI:** To create dynamic dashboards and visualizations.
+
 **KPI Tracking:** Identifying key metrics for actionable insights.
+
 
 ## Taks:
 Create Database
+
 Develop SQL queries
+
 Connect Power BI to DB
+
 Build a Dashboard in Power BI 
+
 Answer the analysis questions
 
 ## Dashboard
