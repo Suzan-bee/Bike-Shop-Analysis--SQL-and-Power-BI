@@ -15,8 +15,9 @@ This component examines the demographic attributes of riders, such as rider type
 
 ## Tools and Techniques:
 **Data Transformation:** Cleaning and preparing raw data for analysis.
+
 **SQL/MySQL**: For database queries and aggregations.
-**Pwoer BI:** To create dynamic dashboards and visualizations.
+**Power BI:** To create dynamic dashboards and visualizations.
 **KPI Tracking:** Identifying key metrics for actionable insights.
 
 ## Taks:
